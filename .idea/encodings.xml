@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
-=======
-    <file url="file://$PROJECT_DIR$/ChallengeApp/src/main/java" charset="UTF-8" />
->>>>>>> ab20419318f40fc348e4a1a943981f19305d63d0
   </component>
 </project>
